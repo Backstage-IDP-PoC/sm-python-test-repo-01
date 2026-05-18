@@ -8,7 +8,7 @@ metadata:
   annotations:
     github.com/project-slug: Backstage-IDP-PoC/sm-python-test-repo-01
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: Backstage_SSP_PoC/sm-python-test-repo-01/main
+    jenkins.io/job-full-name: Backstage_PoC/sm-python-test-repo-01/main
     argocd/app-name: sm-python-test-repo-01
     backstage.io/kubernetes-id: sm-python-test-repo-01
     backstage.io/kubernetes-namespace: default
